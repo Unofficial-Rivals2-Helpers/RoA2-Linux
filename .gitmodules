@@ -1,0 +1,6 @@
+[submodule "Color-Swap-ROA-2"]
+	path = Color-Swap-ROA-2
+	url = https://github.com/WK-Kz/Color-Swap-ROA-2.git
+[submodule "RoA2-Optimization-Scripts"]
+	path = RoA2-Optimization-Scripts
+	url = https://github.com/WK-Kz/RoA2-Optimization-Scripts.git
