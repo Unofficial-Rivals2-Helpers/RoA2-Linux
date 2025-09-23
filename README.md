@@ -1,6 +1,8 @@
 # RoA2-Linux
 This is a central directory for all tools / information useful for running Rivals of Aether 2 on Linux Systems
 
+## [Direct Wiki Link](https://github.com/WK-Kz/RoA2-Linux/wiki/00.-RoA2-Linux-Landing-Page)
+
 ## Cloning Repo:
 git clone --recurse-submodules https://github.com/WK-Kz/RoA2-Linux.git
 
